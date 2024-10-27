@@ -27,4 +27,4 @@ _Comments and feedback welcome!_
 
 # Where am I deployed?
 
-<enter your URL here>
+<https://deploy-this-repo-yo-karson-qdaa-4buokvrp7-karson-lants-projects.vercel.app/>
